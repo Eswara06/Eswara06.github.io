@@ -8196,7 +8196,7 @@
                                     (0, l.jsxs)("div", {
                                         children: [
                                             (0, l.jsx)("a", {
-                                                href: "https://www.credly.com/badges/ee837f44-ef71-4caa-a363-dc7efcf32872", // Replace with the actual URL you want to link to
+                                                href: "https://www.credly.com/badges/30471381-49ee-4520-8ac3-9d81967e37cf", // Replace with the actual URL you want to link to
                                                 target: "_blank", // Opens the link in a new tab
                                                 rel: "noopener noreferrer", // Security best practices for external links
                                                 className: "skills__name",
